@@ -37,28 +37,64 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-11-30T15:59:59.138Z",
+      "notes": "I love Paris!",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 48.85669631118546,
+        "lng": 2.351461410522461
       },
-      "id": 94625361
+      "id": 73930385
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "London",
+      "country": "United Kingdom",
+      "emoji": "🇬🇧",
+      "date": "2026-08-15T08:22:53.976Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": 51.507351,
+        "lng": -0.127758
       },
-      "id":  23786341
+      "id": 17806751
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2026-05-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands",
+      "emoji": "🇳🇱",
+      "date": "2025-12-30T15:59:59.138Z",
+      "notes": "I love Amsterdam!",
+      "position": {
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czech Republic",
+      "emoji": "🇨🇿",
+      "date": "2025-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 50.0755,
+        "lng": 14.4378
+      },
+      "id": 17806751
     }
   ]
 }
