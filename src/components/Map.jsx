@@ -9,7 +9,6 @@ function Map() {
   const navigate = useNavigate();
   const { cities } = useCities();
   const [mapPosition, setMapPosition] = useState([40, 0]);
-
   const [searchParam, setSearchParams] = useSearchParams();
 
   const lat = searchParam.get("lat");
