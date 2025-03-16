@@ -32,7 +32,9 @@ function Map() {
             position={[city.position.lat, city.position.lng]}
           >
             <Popup>
-              <span>{city.emoji}</span>
+              <span className={styles.popupemoji}>
+                <img src={city.emoji} alt={city.country} />
+              </span>
               <span>{city.cityName}</span>
             </Popup>
           </Marker>

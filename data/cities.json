@@ -3,7 +3,7 @@
     {
       "cityName": "Lisbon",
       "country": "Portugal",
-      "emoji": "PT",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/PT.svg",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
       "position": {
@@ -15,7 +15,7 @@
     {
       "cityName": "Madrid",
       "country": "Spain",
-      "emoji": "ES",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
       "position": {
@@ -27,7 +27,7 @@
     {
       "cityName": "Berlin",
       "country": "Germany",
-      "emoji": "DE",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/DE.svg",
       "date": "2027-02-12T09:24:11.863Z",
       "notes": "Amazing 😃",
       "position": {
@@ -36,11 +36,11 @@
       },
       "id": 98443197
     },
-    { 
+    {
       "cityName": "Paris",
       "country": "France",
-      "emoji": "FR",
-      "date": "2026-12-31T15:59:59.138Z",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/FR.svg",
+      "date": "2026-11-30T15:59:59.138Z",
       "notes": "I love Paris!",
       "position": {
         "lat": 48.856614,
@@ -51,62 +51,26 @@
     {
       "cityName": "London",
       "country": "United Kingdom",
-      "emoji": "GB",
-      "date": "2026-10-31T15:59:59.138Z",
-      "notes": "I love London!",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/GB.svg",
+      "date": "2026-08-15T08:22:53.976Z",
+      "notes": "",
       "position": {
-        "lat": 51.5073509,
-        "lng": -0.1277583
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Rome",
-      "country": "Italy",
-      "emoji": "IT",
-      "date": "2026-07-15T08:22:53.976Z",
-      "notes": "I love Rome!",
-      "position": {
-        "lat": 41.9027835,
-        "lng": 12.4963655
+        "lat": 51.5073219,
+        "lng": -0.1276474
       },
       "id": 17806751
     },
     {
-      "cityName": "Amsterdam",
-      "country": "Netherlands",
-      "emoji": "NL",
-      "date": "2026-02-12T09:24:11.863Z",
-      "notes": "I love Amsterdam!",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/IT.svg",
+      "date": "2026-05-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
       "position": {
-        "lat": 52.3675734,
-        "lng": 4.9041389
+        "lat": 41.9027835,
+        "lng": 12.4963655
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Vienna",
-      "country": "Austria",
-      "emoji": "AT",
-      "date": "2025-12-31T15:59:59.138Z",
-      "notes": "I love Vienna!",
-      "position": {
-        "lat": 48.2081743,
-        "lng": 16.3738189
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Prague",
-      "country": "Czech Republic",
-      "emoji": "CZ",
-      "date": "2025-10-31T15:59:59.138Z",
-      "notes": "I love Prague!",
-      "position": {
-        "lat": 50.0755381,
-        "lng": 14.4378005
-      },
-      "id": 73930385
     }
   ]
 }
